@@ -1,0 +1,19 @@
+[Info  - 5:28:11 PM] ESLint server stopped.
+[Info  - 5:28:11 PM] ESLint server running in node v12.14.1
+[Info  - 5:28:11 PM] ESLint server is running.
+[Info  - 5:28:14 PM] ESLint library loaded from: /home/diegozago/Documents/nlw-web/node_modules/eslint/lib/api.js
+[Info  - 6:12:24 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/App.tsx:3
+[Info  - 6:12:24 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/App.tsx:3
+[Info  - 6:14:23 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/App.tsx:5
+[Info  - 6:14:23 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/App.tsx:5
+[Info  - 6:14:26 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/App.tsx:5
+[Info  - 6:14:27 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/App.tsx:5
+[Info  - 6:47:23 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:3
+[Info  - 6:47:23 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:3
+[Info  - 6:47:25 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:3
+[Info  - 6:47:31 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:3
+[Info  - 6:47:32 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:3
+[Info  - 6:47:33 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:3
+[Info  - 6:47:33 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:3
+[Info  - 6:50:48 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:7
+[Info  - 6:50:48 PM] Cannot read property 'indexOf' of undefined Occurred while linting /home/diegozago/Documents/nlw-web/src/pages/OrphanagesMap.tsx:7

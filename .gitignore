@@ -1,0 +1,44 @@
+# WEB 
+
+# dependencies
+nlw-web/node_modules
+nlw-web/.pnp
+nlw-web/.pnp.js
+
+# testing
+nlw-web/coverage
+
+# production
+nlw-web/build
+
+# misc
+nlw-web/.DS_Store
+nlw-web/.env.local
+nlw-web/.env.development.local
+nlw-web/.env.test.local
+nlw-web/.env.production.local
+
+nlw-web/npm-debug.log*
+nlw-web/yarn-debug.log*
+nlw-web/yarn-error.log*
+
+# MOBILE
+
+mobile/node_modules
+mobile/.expo/*
+mobile/npm-debug.*
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+mobile/*.orig.*
+mobile/web-build/
+
+# macOS
+mobile/.DS_Store
+
+# BACKEND
+
+backend/node_modules
+backend/uploads/*

@@ -1,0 +1,11 @@
+[2020-10-12 17:27:54.438] [sharedprocess] [info] main {"machineId":"817e5817b0ae465909f15c20f07ce3b8fb9c298aa7c1bb4a4ea8f92eb8801f0d","windowId":2}
+[2020-10-12 17:27:54.471] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/diegozago/Documents/nlw-web/~/.vscode-root
+/User/snippets'
+[2020-10-12 17:28:34.454] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-15 17:28:13.023] [sharedprocess] [info] Installing extension: jpoissonnier.vscode-styled-components
+[2020-10-15 17:28:14.098] [sharedprocess] [info] Downloaded extension: jpoissonnier.vscode-styled-components /home/diegozago/Documents/nlw-web/~/.vscode-root
+/CachedExtensionVSIXs/jpoissonnier.vscode-styled-components-1.1.0
+[2020-10-15 17:28:15.642] [sharedprocess] [info] Extracted extension to /home/diegozago/.vscode/extensions/.jpoissonnier.vscode-styled-components-1.1.0: jpoissonnier.vscode-styled-components
+[2020-10-15 17:28:15.643] [sharedprocess] [info] Renamed to /home/diegozago/.vscode/extensions/jpoissonnier.vscode-styled-components-1.1.0
+[2020-10-15 17:28:15.643] [sharedprocess] [info] Installation completed. jpoissonnier.vscode-styled-components
+[2020-10-15 17:28:15.657] [sharedprocess] [info] Extensions installed successfully: jpoissonnier.vscode-styled-components
