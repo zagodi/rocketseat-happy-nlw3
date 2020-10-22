@@ -1,5 +1,7 @@
 # WEB 
 
+nlw-web/~/.vscode-root
+
 # dependencies
 nlw-web/node_modules
 nlw-web/.pnp
@@ -24,6 +26,8 @@ nlw-web/yarn-error.log*
 
 # MOBILE
 
+mobile/~/.vscode-root
+
 mobile/node_modules
 mobile/.expo/*
 mobile/npm-debug.*
@@ -42,3 +46,5 @@ mobile/.DS_Store
 
 backend/node_modules
 backend/uploads/*
+
+backend/~/.vscode-root
